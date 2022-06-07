@@ -5,7 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanninha&show_icons=true&theme=radical)
 
-Repositórios principais:
+Principais repositórios:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nanninha&repo=Controle-de-Pedidos&theme=radical)](https://github.com/nanninha/Controle-de-Pedidos)
 
