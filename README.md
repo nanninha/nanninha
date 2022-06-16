@@ -13,3 +13,5 @@ Principais repositórios:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nanninha&repo=Angry-Bird-Etapa-6-main&theme=radical)](https://github.com/nanninha/Angry-Bird-Etapa-6-main/)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nanninha&repo=instagram-dio&theme=radical)](https://github.com/nanninha/instagram-dio)
+
